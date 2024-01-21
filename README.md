@@ -114,7 +114,8 @@ HDMI audio and video output using third-party Mini DisplayPort to HDMI Adapter (
 ## The MacBook Air introduced in January 2008 a premium ultraportable with a 13.3-inch screen and a full-size keyboard
 
 
-<img src="https://darkroom.baltimoresun.com/wp-content/uploads/2012/10/BZ.APPLE16P1.jpg" alt="January 15, 2008: Apple CEO Steve Jobs holds up the new MacBook Air"/>![image](https://github.com/PeterKildani/computer-comparison/assets/156055205/615ca9a7-18f5-46ea-ac2b-cd5256450339)
+![image](https://github.com/PeterKildani/computer-comparison/assets/156055205/39672015-bb21-4819-8d64-27fe085c5761)
+
 
 ***
 
