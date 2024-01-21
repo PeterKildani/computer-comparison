@@ -1,4 +1,4 @@
-# computer-comparison
+# Macbook 2014 fanpage
 
 ## MacBook Air (13-inch, Early 2014) - Technical Specifications (My computer)
 
