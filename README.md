@@ -13,6 +13,9 @@
 link to full details: (https://support.apple.com/kb/sp700?locale=en_US) 
 
 
+unveiling video https://www.youtube.com/watch?v=OIV6peKMj9M 
+
+
 * Content 
 
 Display
@@ -115,6 +118,9 @@ HDMI audio and video output using third-party Mini DisplayPort to HDMI Adapter (
 
 
 ![image](https://github.com/PeterKildani/computer-comparison/assets/156055205/39672015-bb21-4819-8d64-27fe085c5761)
+
+
+review https://www.youtube.com/watch?v=G_61gYmaEww 
 
 
 ***
