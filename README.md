@@ -149,5 +149,12 @@ multi-touch TrackPad with support for advanced multi-touch gestures including ta
 45 Watt MagSafe Power Adapter.
 
 
+|               |  macbook      | macbook    |
+| ------------- |:-------------:| -----:     |
+| Creator       | Steve Jobs    | Tim Cook   |
+| Year created  | 2014          |   2008     |
+| Price         | $1099 - $1499 | $899 - $999|
+
+
 
 
